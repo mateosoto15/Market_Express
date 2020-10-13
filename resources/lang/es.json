@@ -1,0 +1,20 @@
+{
+	"This action is unauthorized." : "Esta acción no esta permitida.",
+	"Save" : "Guardar",
+	"Profile": "Perfil",
+	"Profile Information": "Información de perfil",
+	"Update your account's profile information and email address.": "Actualiza tu cuenta, información de perfil y correo electrónico",
+	"Photo": "Foto",
+	"Name": "Nombre",
+	"Update Password": "Actualiza la contraseña",
+	"Ensure your account is using a long, random password to stay secure.": "Asegúrate que la nueva contraseña sea segura",
+	"Current Password": "Contraseña actual",
+	"New Password": "Nueva Contraseña",
+	"Confirm Password": "Confirmar Contraseña",
+	"Browser Sessions": "Sesiones en navegador",
+	"Manage and logout your active sessions on other browsers and devices.": "Maneja y desloguea tus sesiones de otros navegadores y dispositivos",
+	"If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.": "Si es necesario te puedes desloguear de todas las sesiones activas",
+	"Delete Account": "Eliminar Cuenta",
+	"Permanently delete your account.": "Elimina tu cuenta permanentemente",
+	"Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.": "Una vez tu cuenta sea borrada, todos los archivos serán eliminados."
+}
